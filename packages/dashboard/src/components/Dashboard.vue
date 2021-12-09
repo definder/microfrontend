@@ -328,7 +328,7 @@ export default {
         datasets: [
           {
             label: 'First Dataset',
-            data: [65, 59, 80, 81, 56, 55, 41],
+            data: [65, 59, 80, 81, 56, 55, 40],
             fill: false,
             backgroundColor: '#2f4860',
             borderColor: '#2f4860',
