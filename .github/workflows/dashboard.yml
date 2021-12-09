@@ -17,6 +17,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - run: nvm use 14.18.1
       - run: npm install
       - run: npm run build
 
