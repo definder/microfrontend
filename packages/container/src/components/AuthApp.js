@@ -1,6 +1,6 @@
 import React from 'react'
 import { useHistory } from 'react-router-dom'
-import { mount } from 'marketing/MarketingApp'
+import { mount } from 'auth/AuthApp'
 
 export default () => {
   const ref = React.useRef(null)
